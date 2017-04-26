@@ -1,0 +1,5 @@
+---
+# defaults file for destroy-asg
+asg:
+  name   :
+  region :
